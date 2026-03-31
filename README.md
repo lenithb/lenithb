@@ -11,7 +11,6 @@
 ## Qué hago
 
 | | |
-|---|---|
 | **Sistemas de generación de leads** | Scraping, enriquecimiento de datos y clasificación automática de prospectos. |
 | **Automatización de seguimiento** | Emails automáticos, flujos en n8n e integración con CRM y APIs. |
 | **Landing pages que convierten** | Diseño enfocado en conversión, carga rápida y estructura estratégica. |
@@ -43,7 +42,6 @@ Landing con sistema de captación integrado y seguimiento automático post-lead.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frameworks & UI**
 
