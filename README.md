@@ -4,7 +4,7 @@
 
 # Lenith Block
 
-<sub>AUTOMATION ENGINEER &nbsp;·&nbsp; FULL STACK DEVELOPER &nbsp;·&nbsp; AI SYSTEMS</sub>
+<sub>AUTOMATION ENGINEER &nbsp;·&nbsp; FULL STACK DEVELOPER &nbsp;·&nbsp; AI SYSTEMS &nbsp;·&nbsp; MARKETING DIGITAL</sub>
 
 <br/>
 
