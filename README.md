@@ -1,8 +1,16 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header"/>
+
 # Lenith Block
 
-<sub>AUTOMATION ENGINEER · FULL STACK DEVELOPER · AI SYSTEMS</sub>
+<sub>AUTOMATION ENGINEER &nbsp;·&nbsp; FULL STACK DEVELOPER &nbsp;·&nbsp; AI SYSTEMS</sub>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/lenithblock@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenithblock@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=60&section=footer"/>
 
 </div>
 
@@ -10,26 +18,39 @@
 
 ## Qué hago
 
-| | |
-| **Sistemas de generación de leads** | Scraping, enriquecimiento de datos y clasificación automática de prospectos. |
-| **Automatización de seguimiento** | Emails automáticos, flujos en n8n e integración con CRM y APIs. |
-| **Landing pages que convierten** | Diseño enfocado en conversión, carga rápida y estructura estratégica. |
-| **Integraciones a medida** | Conexión entre herramientas vía APIs y automatización de procesos internos. |
+<table>
+  <tr>
+    <td><b>Sistemas de generación de leads</b></td>
+    <td>Scraping, enriquecimiento de datos y clasificación automática de prospectos.</td>
+  </tr>
+  <tr>
+    <td><b>Automatización de seguimiento</b></td>
+    <td>Emails automáticos, flujos en n8n e integración con CRM y APIs.</td>
+  </tr>
+  <tr>
+    <td><b>Landing pages que convierten</b></td>
+    <td>Diseño enfocado en conversión, carga rápida y estructura estratégica.</td>
+  </tr>
+  <tr>
+    <td><b>Integraciones a medida</b></td>
+    <td>Conexión entre herramientas vía APIs y automatización de procesos internos.</td>
+  </tr>
+</table>
 
 ---
 
 ## Proyectos
 
-**Pipeline de leads automatizado**
-Captura → limpieza → contacto automático. Menor trabajo manual, mayor velocidad de cierre.
+> **Pipeline de leads automatizado**
+> Captura → limpieza → contacto automático. Menor trabajo manual, mayor velocidad de cierre.
 
-**Automatizaciones con n8n**
-Workflows end-to-end con integraciones a múltiples servicios.
+> **Automatizaciones con n8n**
+> Workflows end-to-end con integraciones a múltiples servicios.
 
-**Web + JS + Automatización**
-Landing con sistema de captación integrado y seguimiento automático post-lead.
+> **Web + JS + Automatización**
+> Landing con sistema de captación integrado y seguimiento automático post-lead.
 
-> Puedo mostrar demos y ejemplos por privado.
+*Puedo mostrar demos y ejemplos por privado.*
 
 ---
 
@@ -68,8 +89,13 @@ Landing con sistema de captación integrado y seguimiento automático post-lead.
 
 ---
 
-## Contacto
+<div align="center">
 
-Si necesitás más clientes, automatizar tu negocio o reducir tareas manuales, escribime y te propongo una solución concreta.
+*Si necesitás más clientes, automatizar tu negocio o reducir tareas manuales, escribime.*
+<br/>
 
-**lenithblock@gmail.com**
+[![Email](https://img.shields.io/badge/Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenithblock@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer"/>
+
+</div>
