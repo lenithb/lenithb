@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./assets/waves.gif" width="100%" alt="White animated waves" />
+<img src="./assets/waves.gif" width="100%" alt="Animated white waves" />
 
 <img src="./assets/header.gif" width="100%" alt="Lenith Block — Automation Engineer, Full Stack Developer, DevOps & Cybersecurity" />
-
-<img src="./assets/waves.gif" width="100%" alt="White animated waves" />
 
 <br/>
 
@@ -65,10 +63,6 @@ Estoy ampliando mi stack hacia seguridad, redes, Linux, contenedores, despliegue
 
 ---
 
-<div align="center">
-<img src="./assets/waves.gif" width="100%" alt="White animated waves" />
-</div>
-
 ## Tech Stack
 
 <div align="center">
@@ -120,10 +114,6 @@ Backend        ── APIs · SQL · PostgreSQL · Python · C#
 
 ---
 
-<div align="center">
-<img src="./assets/waves.gif" width="100%" alt="White animated waves" />
-</div>
-
 ## Certifications
 
 <div align="center">
@@ -162,5 +152,11 @@ Backend        ── APIs · SQL · PostgreSQL · Python · C#
 <div align="center">
 
 `AUTOMATION` · `FULL STACK` · `CYBERSECURITY` · `DEVOPS`
+
+</div>
+
+<div align="center">
+
+<img src="./assets/waves.gif" width="100%" alt="Animated white waves" />
 
 </div>
