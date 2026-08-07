@@ -81,8 +81,6 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 </div>
 
-## Certifications
-
 <div align="center">
 
 <img src="./assets/certifications.gif" width="100%" alt="Certifications gallery" />
