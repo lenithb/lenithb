@@ -4,13 +4,14 @@
 
 </div>
 
-<div align="center">
-Hola, soy Lenith y construyo software, automatizaciones y sistemas que reducen trabajo manual.
+<div align="center>
+Hola! soy Lenith y construyo software, automatizaciones y sistemas que reducen trabajo manual.
 
 Me enfoco en **desarrollo full stack**, **automatización de procesos** y soluciones prácticas para negocios.  
 Actualmente estoy profundizando en **Ciberseguridad** y **DevOps**, incorporando redes, seguridad, Linux, Docker y prácticas de infraestructura a mi perfil.
 
 </div>
+
 <div align="center">
 
 <img src="./assets/separator.gif" width="100%" alt="" />
@@ -93,9 +94,16 @@ Actualmente estoy profundizando en **Ciberseguridad** y **DevOps**, incorporando
 
 <div align="center">
 
-*Cisco Networking Academy · IBM SkillsBuild · freeCodeCamp*
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-FFFFFF?style=for-the-badge&logo=freecodecamp&logoColor=000000)](https://freecodecamp.org/certification/lenithb/responsive-web-design)
+&nbsp;
+[![English B1](https://img.shields.io/badge/English%20B1-FFFFFF?style=for-the-badge&logo=freecodecamp&logoColor=000000)](https://freecodecamp.org/certification/lenithb/b1-english-for-developers)
 
 </div>
+
+**freeCodeCamp**
+
+- [Legacy Responsive Web Design V8](https://freecodecamp.org/certification/lenithb/responsive-web-design)
+- [B1 English for Developers (Beta)](https://freecodecamp.org/certification/lenithb/b1-english-for-developers)
 
 <div align="center">
 
@@ -112,11 +120,11 @@ Actualmente estoy profundizando en **Ciberseguridad** y **DevOps**, incorporando
 [![Email](https://img.shields.io/badge/LENITHBLOCK%40GMAIL.COM-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:lenithblock@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenithb)
 
-<br>
+<br><br>
 
 `AUTOMATION` · `FULL STACK` · `CYBERSECURITY` · `DEVOPS`
 
-<br>
+<br><br>
 
 <img src="./assets/waves.gif" width="100%" alt="" />
 
