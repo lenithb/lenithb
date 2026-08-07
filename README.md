@@ -76,7 +76,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 </div>
 
 <div align="center">
-
+<br><br>
 </div>
 
 <div align="center">
