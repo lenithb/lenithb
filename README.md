@@ -113,11 +113,6 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 </div>
 
-<div align="center">
-
-<img src="./assets/separator.gif" width="100%" alt="Animated separator" />
-
-</div>
 
 <div align="center">
 
