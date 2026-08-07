@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="./assets/header.gif" width="88%" alt="Lenith Block — Automation Engineer, Full Stack Developer, DevOps & Cybersecurity" />
+<img src="./assets/header.gif" width="88%" alt="Lenith Block" />
 
-<br/>
+</div>
 
 ### Construyo software, automatizaciones y sistemas que reducen trabajo manual.
 
 Me enfoco en **desarrollo full stack**, **automatización de procesos** y soluciones prácticas para negocios.  
 Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando redes, seguridad, Linux, Docker y prácticas de infraestructura a mi perfil.
 
-</div>
-
 <div align="center">
 
-<img src="./assets/waves.gif" width="100%" alt="Animated white waves" />
+<img src="./assets/separator.gif" width="100%" alt="" />
 
 </div>
 
@@ -35,7 +33,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 <div align="center">
 
-<img src="./assets/separator.gif" width="100%" alt="Animated separator" />
+<img src="./assets/separator.gif" width="100%" alt="" />
 
 </div>
 
@@ -55,18 +53,17 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
 
 ### Backend & Databases
 
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 
 ### Automation, DevOps & Systems
 
@@ -80,7 +77,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 <div align="center">
 
-<img src="./assets/separator.gif" width="100%" alt="Animated separator" />
+<img src="./assets/separator.gif" width="100%" alt="" />
 
 </div>
 
@@ -93,35 +90,31 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 </div>
 
 **freeCodeCamp**
+
 - [Legacy Responsive Web Design V8](https://freecodecamp.org/certification/lenithb/responsive-web-design)
 - [B1 English for Developers (Beta)](https://freecodecamp.org/certification/lenithb/b1-english-for-developers)
 
 <div align="center">
 
-<img src="./assets/separator.gif" width="100%" alt="Animated separator" />
+<img src="./assets/separator.gif" width="100%" alt="" />
 
 </div>
 
 ## Contacto
 
-<div align="center">
-
 ### ¿Tenés un proceso que podría automatizarse o un proyecto que necesita desarrollo?
 
-[![Email](https://img.shields.io/badge/LENITHBLOCK%40GMAIL.COM-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)](mailto:lenithblock@gmail.com)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/LENITHBLOCK%40GMAIL.COM-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:lenithblock@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenithb)
 
-</div>
-
-
-<div align="center">
+<br><br>
 
 `AUTOMATION` · `FULL STACK` · `CYBERSECURITY` · `DEVOPS`
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="./assets/waves.gif" width="100%" alt="Animated white waves" />
+<img src="./assets/waves.gif" width="100%" alt="" />
 
 </div>
