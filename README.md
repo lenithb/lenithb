@@ -33,7 +33,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 <div align="center">
 
-<img src="./assets/separator.gif" width="100%" alt="" />
+<img src="./assets/waves.gif" width="100%" alt="" />
 
 </div>
 
@@ -95,7 +95,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 <div align="center">
 
-<img src="./assets/separator.gif" width="100%" alt="" />
+<img src="./assets/waves.gif" width="100%" alt="" />
 
 </div>
 
