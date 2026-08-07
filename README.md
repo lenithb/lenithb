@@ -17,8 +17,8 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 ## Proyectos
 
-> **Pipeline de leads automatizado**  
-> Captura → limpieza → procesamiento → contacto. Menos trabajo manual y un flujo comercial más rápido.
+> **Nebula Editor**  
+> Editor de codigo web con TypeScript + React.
 
 > **Automatizaciones con n8n**  
 > Workflows end-to-end con integraciones entre múltiples servicios y lógica personalizada.
