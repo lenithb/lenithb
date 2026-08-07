@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### Hola!, soy Lenith y construyo software, automatizaciones y sistemas que reducen trabajo manual.
+### Hola!, soy Lenith y construyo software, automatizaciones y apps.
   
 Me enfoco en **desarrollo full stack**, **automatización de procesos** y soluciones prácticas para negocios.  
 Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando redes, seguridad, Linux, Docker y prácticas de infraestructura a mi perfil.
