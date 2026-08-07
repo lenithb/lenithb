@@ -97,11 +97,6 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 </div>
 
-**freeCodeCamp**
-
-- [Legacy Responsive Web Design V8](https://freecodecamp.org/certification/lenithb/responsive-web-design)
-- [B1 English for Developers (Beta)](https://freecodecamp.org/certification/lenithb/b1-english-for-developers)
-
 <div align="center">
 
 <img src="./assets/separator.gif" width="100%" alt="" />
