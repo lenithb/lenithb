@@ -17,39 +17,6 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 <img src="./assets/separator.gif" width="100%" alt="Animated separator" />
 
-</div>
-
-## Qué hago
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ⚙ Automation
-
-Diseño workflows y procesos automáticos para conectar servicios, reducir tareas repetitivas y mejorar operaciones.
-
-</td>
-<td width="33%" valign="top">
-
-### ◫ Full Stack
-
-Desarrollo aplicaciones web, APIs, herramientas internas y sistemas orientados a resolver problemas reales.
-
-</td>
-<td width="33%" valign="top">
-
-### ⛨ Security & DevOps
-
-Estoy ampliando mi stack hacia seguridad, redes, Linux, contenedores, despliegues y buenas prácticas de infraestructura.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="./assets/separator.gif" width="100%" alt="Animated separator" />
 
 </div>
 
