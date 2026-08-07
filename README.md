@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header"/>
-
-# Lenith Block
-
-<sub>AUTOMATION ENGINEER &nbsp;·&nbsp; FULL STACK DEVELOPER &nbsp;·&nbsp; AI SYSTEMS &nbsp;·&nbsp; MARKETING DIGITAL</sub>
+<img src="./assets/header.gif" width="100%" alt="Lenith Block — Automation Engineer, Full Stack Developer, DevOps & Cybersecurity" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/lenithblock@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenithblock@gmail.com)
+### Construyo software, automatizaciones y sistemas que reducen trabajo manual.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=60&section=footer"/>
+Me enfoco en **desarrollo full stack**, **automatización de procesos** y soluciones prácticas para negocios.  
+Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando redes, seguridad, Linux, Docker y prácticas de infraestructura a mi perfil.
 
 </div>
 
@@ -19,83 +16,139 @@
 ## Qué hago
 
 <table>
-  <tr>
-    <td><b>Sistemas de generación de leads</b></td>
-    <td>Scraping, enriquecimiento de datos y clasificación automática de prospectos.</td>
-  </tr>
-  <tr>
-    <td><b>Automatización de seguimiento</b></td>
-    <td>Emails automáticos, flujos en n8n e integración con CRM y APIs.</td>
-  </tr>
-  <tr>
-    <td><b>Landing pages que convierten</b></td>
-    <td>Diseño enfocado en conversión, carga rápida y estructura estratégica.</td>
-  </tr>
-  <tr>
-    <td><b>Integraciones a medida</b></td>
-    <td>Conexión entre herramientas vía APIs y automatización de procesos internos.</td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### ⚙ Automation
+
+Diseño workflows y procesos automáticos para conectar servicios, reducir tareas repetitivas y mejorar operaciones.
+
+</td>
+<td width="33%" valign="top">
+
+### ◫ Full Stack
+
+Desarrollo aplicaciones web, APIs, herramientas internas y sistemas orientados a resolver problemas reales.
+
+</td>
+<td width="33%" valign="top">
+
+### ⛨ Security & DevOps
+
+Estoy ampliando mi stack hacia seguridad, redes, Linux, contenedores, despliegues y buenas prácticas de infraestructura.
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## Proyectos
 
-> **Pipeline de leads automatizado**
-> Captura → limpieza → contacto automático. Menor trabajo manual, mayor velocidad de cierre.
+> **Pipeline de leads automatizado**  
+> Captura → limpieza → procesamiento → contacto. Menos trabajo manual y un flujo comercial más rápido.
 
-> **Automatizaciones con n8n**
-> Workflows end-to-end con integraciones a múltiples servicios.
+> **Automatizaciones con n8n**  
+> Workflows end-to-end con integraciones entre múltiples servicios y lógica personalizada.
 
-> **Web + JS + Automatización**
-> Landing con sistema de captación integrado y seguimiento automático post-lead.
+> **Web + JavaScript + Automatización**  
+> Aplicaciones y landings conectadas con sistemas de captación, seguimiento y automatización post-lead.
 
-*Puedo mostrar demos y ejemplos por privado.*
+> **Aplicaciones de escritorio y backend**  
+> Desarrollo de herramientas con C#, bases de datos SQL y APIs para gestión interna.
+
+*Puedo mostrar demos y proyectos desde mis repositorios o por contacto directo.*
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
 
-**Frameworks & UI**
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Frontend
 
-**Backend & Infra**
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apachehttpserver&logoColor=white)
+### Backend & Databases
 
-**Sistemas Operativos**
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Automation, DevOps & Systems
 
-**AI Editors**
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+</div>
+
+---
+
+## Actualmente profundizando en
+
+```text
+Cybersecurity  ── networking · defense · Linux · security fundamentals
+DevOps         ── Docker · deployments · infrastructure · automation
+Backend        ── APIs · SQL · PostgreSQL · Python · C#
+```
+
+---
+
+## Certifications
+
+<div align="center">
+
+<img src="./assets/certifications.gif" width="100%" alt="Certifications gallery" />
+
+</div>
+
+**Cisco Networking Academy**
+- Cybersecurity Defense Analyst Career Path
+- JavaScript Essentials 1
+- JavaScript Essentials 2
+
+**IBM SkillsBuild**
+- Cybersecurity Fundamentals
+
+**freeCodeCamp**
+- [Legacy Responsive Web Design V8](https://freecodecamp.org/certification/lenithb/responsive-web-design)
+- [B1 English for Developers (Beta)](https://freecodecamp.org/certification/lenithb/b1-english-for-developers)
+
+---
+
+## Contacto
+
+<div align="center">
+
+### ¿Tenés un proceso que podría automatizarse o un proyecto que necesita desarrollo?
+
+[![Email](https://img.shields.io/badge/LENITHBLOCK%40GMAIL.COM-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenithblock@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenithb)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Si necesitás más clientes, automatizar tu negocio o reducir tareas manuales, escribime.*
-<br/>
-
-[![Email](https://img.shields.io/badge/Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenithblock@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer"/>
+`AUTOMATION` · `FULL STACK` · `CYBERSECURITY` · `DEVOPS`
 
 </div>
