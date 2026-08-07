@@ -84,7 +84,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 <img src="./assets/certifications.gif" width="100%" alt="Certifications gallery" />
 
 </div>
-
+<br><br>
 <div align="center">
 
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-FFFFFF?style=for-the-badge&logo=freecodecamp&logoColor=000000)](https://freecodecamp.org/certification/lenithb/responsive-web-design)
