@@ -87,20 +87,6 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 </div>
 
-## Actualmente profundizando en
-
-```text
-Cybersecurity  ── networking · defense · Linux · security fundamentals
-DevOps         ── Docker · deployments · infrastructure · automation
-Backend        ── APIs · SQL · PostgreSQL · Python · C#
-```
-
-<div align="center">
-
-<img src="./assets/separator.gif" width="100%" alt="Animated separator" />
-
-</div>
-
 ## Certifications
 
 <div align="center">
@@ -108,14 +94,6 @@ Backend        ── APIs · SQL · PostgreSQL · Python · C#
 <img src="./assets/certifications.gif" width="100%" alt="Certifications gallery" />
 
 </div>
-
-**Cisco Networking Academy**
-- Cybersecurity Defense Analyst Career Path
-- JavaScript Essentials 1
-- JavaScript Essentials 2
-
-**IBM SkillsBuild**
-- Cybersecurity Fundamentals
 
 **freeCodeCamp**
 - [Legacy Responsive Web Design V8](https://freecodecamp.org/certification/lenithb/responsive-web-design)
