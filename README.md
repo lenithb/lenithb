@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/waves.gif" width="100%" alt="Animated white waves" />
-
 <img src="./assets/header.gif" width="88%" alt="Lenith Block — Automation Engineer, Full Stack Developer, DevOps & Cybersecurity" />
 
 <br/>
@@ -15,8 +13,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 <div align="center">
 
-<img src="./assets/separator.gif" width="100%" alt="Animated separator" />
-
+<img src="./assets/waves.gif" width="100%" alt="Animated white waves" />
 
 </div>
 
