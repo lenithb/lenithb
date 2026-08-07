@@ -89,10 +89,11 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 </div>
 
-**freeCodeCamp**
+<div align="center">
 
-- [Legacy Responsive Web Design V8](https://freecodecamp.org/certification/lenithb/responsive-web-design)
-- [B1 English for Developers (Beta)](https://freecodecamp.org/certification/lenithb/b1-english-for-developers)
+*Cisco Networking Academy · IBM SkillsBuild · freeCodeCamp*
+
+</div>
 
 <div align="center">
 
@@ -109,8 +110,11 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 [![Email](https://img.shields.io/badge/LENITHBLOCK%40GMAIL.COM-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:lenithblock@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenithb)
 
+<br><br>
 
 `AUTOMATION` · `FULL STACK` · `CYBERSECURITY` · `DEVOPS`
+
+<br><br>
 
 <img src="./assets/waves.gif" width="100%" alt="" />
 
