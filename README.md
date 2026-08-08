@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.gif" width="88%" alt="Lenith Block" />
+<img src="./assets/header.svg" width="88%" alt="Lenith Block" />
 
 </div>
 
@@ -33,7 +33,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 <div align="center">
 
-<img src="./assets/waves.gif" width="100%" alt="" />
+<img src="./assets/waves.svg" width="100%" alt="" />
 
 </div>
 
@@ -94,7 +94,7 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 <div align="center">
 
-<img src="./assets/waves.gif" width="100%" alt="" />
+<img src="./assets/waves.svg" width="100%" alt="" />
 
 </div>
 
@@ -110,6 +110,6 @@ Actualmente estoy profundizando en **Cybersecurity** y **DevOps**, incorporando 
 
 `AUTOMATION` · `FULL STACK` · `CYBERSECURITY` · `DEVOPS`
 
-<img src="./assets/waves.gif" width="100%" alt="" />
+<img src="./assets/waves.svg" width="100%" alt="" />
 
 </div>
